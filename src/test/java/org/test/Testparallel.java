@@ -1,5 +1,6 @@
 package org.test;
 
+import org.basic.Baseclass;
 import org.testng.annotations.Test;
 
 public class Testparallel extends Baseclass{

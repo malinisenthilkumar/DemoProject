@@ -1,6 +1,6 @@
 package org.testdataprovider;
 
-import org.test.Baseclass;
+import org.basic.Baseclass;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 

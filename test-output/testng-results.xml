@@ -1,61 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="2852" started-at="2021-09-03T13:59:50 IST" finished-at="2021-09-03T13:59:53 IST">
+  <suite name="Default suite" duration-ms="68924" started-at="2021-10-06T20:27:15 IST" finished-at="2021-10-06T20:28:24 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="2852" started-at="2021-09-03T13:59:50 IST" finished-at="2021-09-03T13:59:53 IST">
-      <class name="org.excel.ExcelTestNG">
-        <test-method status="PASS" signature="test1(java.lang.String,java.lang.String)[pri:0, instance:org.excel.ExcelTestNG@3d921e20]" name="test1" duration-ms="24" started-at="2021-09-03T13:59:53 IST" data-provider="login" finished-at="2021-09-03T13:59:53 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[malini]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[1]]>
-              </value>
-            </param>
-          </params>
+    <test name="Default test" duration-ms="68924" started-at="2021-10-06T20:27:15 IST" finished-at="2021-10-06T20:28:24 IST">
+      <class name="org.task.Amazon">
+        <test-method status="PASS" signature="Amazon()[pri:0, instance:org.task.Amazon@7a187f14]" name="Amazon" duration-ms="68724" started-at="2021-10-06T20:27:15 IST" finished-at="2021-10-06T20:28:24 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1(java.lang.String,java.lang.String)[pri:0, instance:org.excel.ExcelTestNG@3d921e20]" name="test1" duration-ms="7" started-at="2021-09-03T13:59:53 IST" data-provider="login" finished-at="2021-09-03T13:59:53 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[senthil]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[1]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test1(java.lang.String,java.lang.String)[pri:0, instance:org.excel.ExcelTestNG@3d921e20]" name="test1" duration-ms="7" started-at="2021-09-03T13:59:53 IST" data-provider="login" finished-at="2021-09-03T13:59:53 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[yojith]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[1]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- test1 -->
-      </class> <!-- org.excel.ExcelTestNG -->
+        </test-method> <!-- Amazon -->
+      </class> <!-- org.task.Amazon -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
